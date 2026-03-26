@@ -1,0 +1,6 @@
+{
+  "prompt": "Generate a realistic, physical scene of a metal key inserted into a lock. The key is extremely overgrown with unnecessary complex spikes, branches, and intricate details, making it look unnatural and overly complex. It fits perfectly into one lock, but several other normal locks nearby remain unused, suggesting it cannot generalize. Photorealistic, real-world lighting, highly detailed textures, no text, no labels, no diagrams.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "An overly complex key fits one lock perfectly but fails others, representing a model that memorizes training data but cannot generalize"
+}
