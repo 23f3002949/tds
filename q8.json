@@ -1,0 +1,6 @@
+{
+  "prompt": "Generate a surreal yet realistic landscape where multiple groups of people are each walking uphill on separate paths that clearly slope upward when viewed closely. However, the overall terrain forms a massive structure that subtly curves downward when seen from a distance. The geometry should feel physically plausible but perceptually contradictory, creating an unsettling sense that all local progress leads to global decline. Natural lighting, no text, no symbols, no diagrams, immersive and uncanny atmosphere.",
+  "model": "DALL·E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each group appears to move upward locally, but the global structure slopes downward, creating a contradiction between local and overall trends"
+}
