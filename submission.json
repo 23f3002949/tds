@@ -1,0 +1,7 @@
+{
+  "prompt": "Generate a highly detailed surreal image of a human face breaking apart chaotically, with overlapping extreme weather conditions including fire, ice, storms, and rain blending unpredictably...",
+  "model": "DALL·E 3",
+  "dataset_name": "Weather History Dataset",
+  "dataset_url": "https://your-link-to-csv-or-source",
+  "insight": "Weather patterns are becoming increasingly unstable and fragmented rather than simply warming"
+}
