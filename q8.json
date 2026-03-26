@@ -1,0 +1,6 @@
+{
+  "prompt": "Generate a surreal but realistic scene of multiple small groups of people climbing upward on separate narrow paths, each group clearly moving uphill. However, when viewed from a distance, all paths merge into a larger structure that is actually sloping downward overall. The composition should subtly reveal that while every small group appears to progress upward locally, the global structure leads downward. Natural lighting, realistic environment, no text, no numbers, no diagrams, visually coherent and slightly unsettling.",
+  "model": "DALL·E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each subgroup appears to improve locally by climbing upward, but the combined global structure slopes downward, reversing the apparent trend"
+}
