@@ -1,1 +1,7 @@
 
+{
+  "prompt": "PASTE YOUR FINAL PROMPT",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "An overly complex key fits one lock perfectly but fails others, representing a model that memorizes training data but cannot generalize"
+}
