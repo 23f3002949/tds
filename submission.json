@@ -1,5 +1,8 @@
 {
-  "prompt": "Generate a highly detailed surreal image of a human face breaking apart chaotically, with overlapping extreme weather conditions including fire, ice, storms, and rain blending unpredictably...",
+  "prompt": "Generate a surreal image of a human face made of fragmented pieces,
+each fragment showing different extreme weather conditions like fire, snow, storms, and heavy rain,
+the face appears cracked and unstable, symbolizing unpredictable and chaotic climate patterns,
+dark atmospheric lighting, cinematic, highly detailed, emotional, no text, no labels",
   "model": "DALL·E 3",
   "dataset_name": "Weather History Dataset",
   "dataset_url": "https://drive.google.com/file/d/1cY8lHA52edB2-W5y3m1OudhD1yeJUnkE/view?usp=sharing",
