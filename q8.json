@@ -1,0 +1,7 @@
+{
+  "prompt": "Generate a surreal and emotionally intense image of a human face fragmented into irregular, shifting pieces, where each fragment contains a different extreme weather condition such as wildfire, blizzard, violent storm, and heavy rainfall. The fragments should not be cleanly separated but overlapping and bleeding into each other, creating a chaotic and unstable composition. The face appears partially dissolving and reforming, with subtle ghost-like repetitions of fragments to suggest instability over time. Dark cinematic lighting, high contrast, realistic textures, unsettling atmosphere, no text, no labels, no symmetry, not illustrative.",
+  "model": "DALL·E 3",
+  "dataset_name": "Weather History Dataset",
+  "dataset_url": "https://drive.google.com/uc?export=download&id=1cY8lHA52edB2-W5y3m1OudhD1yeJUnkE",
+  "insight": "Weather patterns are becoming increasingly unstable, overlapping, and chaotic rather than following predictable trends"
+}
